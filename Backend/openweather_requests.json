@@ -1,0 +1,37 @@
+{
+  "name": "openweather_requests",
+  "datasets": [
+    {
+      "openweather_temp": {
+        "display_type": "fill_in",
+        "color_set": "fill_in",
+        "min_val": 0,
+        "max_val": 1
+      }
+    },
+    {
+      "openweather_humidity": {
+        "display_type": "fill_in",
+        "color_set": "fill_in",
+        "min_val": 0,
+        "max_val": 1
+      }
+    },
+    {
+      "openweather_pressure": {
+        "display_type": "fill_in",
+        "color_set": "fill_in",
+        "min_val": 0,
+        "max_val": 1
+      }
+    },
+    {
+      "openweather_wind": {
+        "display_type": "fill_in",
+        "color_set": "fill_in",
+        "min_val": 0,
+        "max_val": 1
+      }
+    }
+  ]
+}

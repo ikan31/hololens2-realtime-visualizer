@@ -1,0 +1,13 @@
+{
+  "name": "who_athena",
+  "datasets": [
+    {
+      "Life expectancy at birth (years)": {
+        "display_type": "fill_in",
+        "color_set": "fill_in",
+        "min_val": 0,
+        "max_val": 100
+      }
+    }
+  ]
+}

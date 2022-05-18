@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SphereView.unity
+    guid: 1883be0cda7a94e4f86d3dc40e4c8e4b
+  - enabled: 0
+    path: Assets/Scenes/Sample.unity
+    guid: f64c7105b42854a44994db933eba3a0a
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultManagerScene.unity
+    guid: ae7bb08d297fb69408695d8de0962524
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  - enabled: 0
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 1d67922a13700524cb0bb489b9a8398f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 34484da5c2476aa4ba8dc86751d9f34b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7ecef2688c554634c9ebee463689e090, type: 2}
